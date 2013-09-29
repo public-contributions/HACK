@@ -23,3 +23,8 @@ For your Public Contributions chart on GitHub.
 1. Visit your user page to see the chart. (Ex: `http://github.com/example-user`.)
 
 #### [Share a screenshot of your HACK](https://github.com/public-contributions/HACK/issues/1)
+
+#### Credits
+
+Made by Adam Schwartz
+[GitHub](https://github.com/adamschwartz) &nbsp; &nbsp; [Twitter](https://twitter.com/adamfschwartz)

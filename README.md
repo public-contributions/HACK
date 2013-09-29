@@ -24,7 +24,12 @@ For your Public Contributions chart on GitHub.
 
 #### [Share a screenshot of your HACK](https://github.com/public-contributions/HACK/issues/1)
 
+#### License
+
+[License](https://github.com/public-contributions/HACK/blob/master/LICENSE)
+
 #### Credits
 
 Made by Adam Schwartz
+
 [GitHub](https://github.com/adamschwartz) &nbsp; &nbsp; [Twitter](https://twitter.com/adamfschwartz)

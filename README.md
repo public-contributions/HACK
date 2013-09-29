@@ -1,4 +1,10 @@
-### HACK
+## HACK
+
+For your Public Contributions chart on GitHub.
+
+### [Demo](https://github.com/public-contributions)
+
+#### Screenshot
 
 ![](https://raw.github.com/public-contributions/HACK/master/hack.png)
 
